@@ -36,9 +36,19 @@ export default function Home() {
                 <Map />
                 <Transport />
                 <Contact />
-                <Account />
-                <div className="divide-line"></div>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                {/* <Account /> */}
+                {/* <div className="divide-line"></div> */}
                 <Gallery />
+                <br />
+                <br />
+                <br />
+                <br />
                 <div className="divide-line"></div>
                 <Notice />
                 <p className="rights">© 2024-04-06 Yoohwan, Jinsol</p>
